@@ -1,1 +1,5 @@
 # Excel__project
+
+This project is a Bike Sales Dashboard created in Microsoft Excel. The aim of the project is to analyze customer information and understand the factors that influence bike purchases. The dataset contains customer details such as gender, age, income, marital status, education, occupation, number of children, home ownership, number of cars, commute distance, region, and whether the customer purchased a bike. The project includes data cleaning, calculated columns, pivot tables, pivot charts, slicers, and an interactive dashboard to present the analysis in a simple and meaningful way.
+
+This Excel project demonstrates how raw customer data can be transformed into meaningful business insights using Excel Pivot Tables, Pivot Charts, Slicers, and Dashboards. The dashboard helps users quickly understand customer purchasing behaviour based on income, age, commute distance, gender, and region. The use of interactive filters makes the analysis simple, dynamic, and easy to explore, allowing users to identify important trends and make informed business decisions
